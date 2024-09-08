@@ -4,11 +4,20 @@
 
 # About ZipCracker
 ZipCracker is a lightweight and efficient android app for cracking password-protected ZIP files. This app is designed to offer a simple and user-friendly interface, making it easy to recover lost or forgotten ZIP file passwords using brute-force techniques.
-## Used Dependencies
-DDAnimatoo for change screen animation.
-`com.github.michelelacorte:DDAnimatoo:1.0.0`<br>
-Zip4j for extracting the zip file.
-`net.lingala.zip4j:zip4j:2.11.5`
+
+## Dependencies
+
+### DDAnimatoo
+
+**DDAnimatoo** is a library designed for implementing smooth and visually appealing screen transition animations in Android applications.
+
+- **Dependency**: `com.github.michelelacorte:DDAnimatoo:1.0.0`
+
+### Zip4j
+
+**Zip4j** is a versatile library for handling ZIP files. It provides features for secure extraction and compression, including password protection and AES encryption.
+
+- **Dependency**: `net.lingala.zip4j:zip4j:2.11.5`
 
 ## Screenshots
 
