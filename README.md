@@ -3,8 +3,7 @@
 </div>
 
 # About ZipCracker
-This is open source zip password cracker. It brute force's the zip to reveal its password, to brute force it must need a valid and password protected zip file and also a password list. It has its own password list containing 999999 passwords.
-
+ZipCracker is a lightweight and efficient android app for cracking password-protected ZIP files. This app is designed to offer a simple and user-friendly interface, making it easy to recover lost or forgotten ZIP file passwords using brute-force techniques.
 ## Used Dependencies
 DDAnimatoo for change screen animation.
 `com.github.michelelacorte:DDAnimatoo:1.0.0`<br>
