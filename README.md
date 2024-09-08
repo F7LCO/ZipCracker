@@ -32,7 +32,7 @@ ZipCracker is a lightweight and efficient android app for cracking password-prot
 </p>
 
 ## Does it works
-Yes it 100% works. If the zip password is in the password list then it will detect the password and show it in yhe screen.
+Yes it 100% works. If the zip password is in the password list then it will detect the password and show it in the screen.
 
 ## Bugs
 There are some minor bugs that will be solved in next update. I have managed to detect on bug and i am constantly trying to fix it, the bug is
